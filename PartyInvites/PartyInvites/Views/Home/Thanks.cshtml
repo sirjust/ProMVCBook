@@ -8,19 +8,28 @@
 
 <html>
 <head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width" />
     <title>Thanks</title>
+    <style>
+        body {background-color: #f1f1f1;}
+    </style>
 </head>
 <body>
-    <div> 
+    <!--when i reach chapter three, return and make an action method to send the email-->
+    <div class="text-center"> 
         <h1>Thank you, @Model.Name!</h1>
-        @if (Model.WillAttend == true)
-        {
-            @:It's great that you're coming. The drinks are aready in the fridge!
-        } else
-        {
-            @:Sorry to hear that you can't make it, but thanks for letting us know.
-        }
+        <div class="lead">
+            @if (Model.WillAttend == true)
+            {
+                @:It's great that you're coming. The drinks are aready in the fridge!
+            }
+            else
+            {
+                @:Sorry to hear that you can't make it, but thanks for letting us know.
+            }
+        </div>
     </div>
 </body>
 </html>
