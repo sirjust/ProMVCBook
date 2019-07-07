@@ -33,3 +33,6 @@ C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\bin
 C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.csproj.CopyComplete
 C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.dll
 C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.pdb
+C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.dll.config
+C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\bin\Debug\Moq.dll
+C:\Users\SirJUST\source\repos\ProMVCBook\EssentialTools\EssentialTools.Tests\bin\Debug\Moq.xml
